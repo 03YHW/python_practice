@@ -1,4 +1,4 @@
-('C:\\Users\\USER\\Desktop\\python_practice\\build\\inventor_macro\\PYZ-00.pyz',
+('C:\\Users\\USER\\Desktop\\python_practice\\1.inventor_macro\\build\\inventor_macro\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
